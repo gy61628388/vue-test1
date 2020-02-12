@@ -16,6 +16,6 @@ function add(num1,num2){
 
 describe('加法测试',()=>{
   it('数字相加',()=>{
-    expect(add(1,2)).toBe(3)
+    expect(add(1,2)).toBe(4)
   })
 })
